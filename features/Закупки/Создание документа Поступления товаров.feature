@@ -1,4 +1,5 @@
 ﻿#language: ru
+@ExportScenarios
 
 @tree
 
